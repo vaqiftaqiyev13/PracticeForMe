@@ -14,5 +14,5 @@ fun main(){
             herfSayi++
         }
     }
-    println("${msg} cumlesinde $symbol bu qederdir: $herfSayi")
+    println("$msg cumlesinde $symbol bu qederdir: $herfSayi")
 }
